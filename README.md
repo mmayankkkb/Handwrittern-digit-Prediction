@@ -11,8 +11,8 @@ Dataset is imported from tensorflow.keras library
 
 
 
-Train accuracy- 99.992&   loss: 0.0023
+Train accuracy- 99.992 %   loss: 0.0023
 
 
-Test accuracy -98.570%    loss: 0.0800
+Test accuracy - 98.570 %    loss: 0.0800
 
